@@ -5,8 +5,8 @@
 
 |接口|含义||
 |:--:|:--:|:--:|
-|user|is-login||
-|user|login||
+|user/is-login|是否登陆||
+|user/login|用户登陆||
 
 #### 基础数据
 
