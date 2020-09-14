@@ -1,33 +1,15 @@
-# admin-api-ts
+# admin-server-ts
 
 
+#### 用户相关
 
-## QuickStart
+|接口|含义||
+|:--:|:--:|:--:|
+|user|is-login||
+|user|login||
 
-<!-- add docs here for user -->
+#### 基础数据
 
-see [egg docs][egg] for more detail.
-
-### Development
-
-```bash
-$ npm i
-$ npm run dev
-$ open http://localhost:7001/
-```
-
-### Deploy
-
-```bash
-$ npm start
-$ npm stop
-```
-
-### npm scripts
-
-- Use `npm run lint` to check code style.
-- Use `npm test` to run unit test.
-- Use `npm run autod` to auto detect dependencies upgrade, see [autod](https://www.npmjs.com/package/autod) for more detail.
-
-
-[egg]: https://eggjs.org
+|接口|含义||
+|:--:|:--:|:--:|
+|menu|获取菜单||
